@@ -1,0 +1,12 @@
+C:\Users\Ka.Kovalova\source\repos\LogBibliotek_Kovalova\LogBibliotekNew\obj\Debug\net8.0\LogBibliotekNew.csproj.AssemblyReference.cache
+C:\Users\Ka.Kovalova\source\repos\LogBibliotek_Kovalova\LogBibliotekNew\obj\Debug\net8.0\LogBibliotekNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ka.Kovalova\source\repos\LogBibliotek_Kovalova\LogBibliotekNew\obj\Debug\net8.0\LogBibliotekNew.AssemblyInfoInputs.cache
+C:\Users\Ka.Kovalova\source\repos\LogBibliotek_Kovalova\LogBibliotekNew\obj\Debug\net8.0\LogBibliotekNew.AssemblyInfo.cs
+C:\Users\Ka.Kovalova\source\repos\LogBibliotek_Kovalova\LogBibliotekNew\obj\Debug\net8.0\LogBibliotekNew.csproj.CoreCompileInputs.cache
+C:\Users\Ka.Kovalova\source\repos\LogBibliotek_Kovalova\LogBibliotekNew\bin\Debug\net8.0\LogBibliotekNew.deps.json
+C:\Users\Ka.Kovalova\source\repos\LogBibliotek_Kovalova\LogBibliotekNew\bin\Debug\net8.0\LogBibliotekNew.dll
+C:\Users\Ka.Kovalova\source\repos\LogBibliotek_Kovalova\LogBibliotekNew\bin\Debug\net8.0\LogBibliotekNew.pdb
+C:\Users\Ka.Kovalova\source\repos\LogBibliotek_Kovalova\LogBibliotekNew\obj\Debug\net8.0\LogBibliotekNew.dll
+C:\Users\Ka.Kovalova\source\repos\LogBibliotek_Kovalova\LogBibliotekNew\obj\Debug\net8.0\refint\LogBibliotekNew.dll
+C:\Users\Ka.Kovalova\source\repos\LogBibliotek_Kovalova\LogBibliotekNew\obj\Debug\net8.0\LogBibliotekNew.pdb
+C:\Users\Ka.Kovalova\source\repos\LogBibliotek_Kovalova\LogBibliotekNew\obj\Debug\net8.0\ref\LogBibliotekNew.dll
